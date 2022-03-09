@@ -1,0 +1,9 @@
+{
+  "name": "nodejs-schema-registry-eg",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@kafkajs/confluent-schema-registry": "^3.2.1"
+  }
+}
